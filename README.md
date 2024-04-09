@@ -1,17 +1,20 @@
 # Leyes Físicas 3
-La asignatura provee un amplio panorama de los principios físicos de conservación de energía y momento lineal, y de fenómenos que involucran los conceptos de energía y potencia, momento lineal, oscilaciones y ondas, y las leyes de la termodinámica.
 
-## Propósito:
+## Universidad Técnica de Ambato (2017-2018)
 
-Estudiar los conceptos y principios físicos de trabajo y energía, conservación de la energía, conservación del momento lineal, oscilaciones y ondas, y termodinámica y su aplicación en los procesos de ingeniería mecánica.
+## Sobre este repositorio.:
+Este repositorio presenta una colección de notas de clase, guías de laboratorio y ejercicios de aplicación sobre el curso "Leyes Físicas 3", que fue impartido a estudiantes de ingeniería de la Universidad Técnica de Ambato entre 2017 y 2018. La asignatura provee un amplio panorama de leyes físicas asociadas a fenómenos que involucran los conceptos de energía, trabajo, conservación de energía, conservación de momento lineal, oscilaciones y ondas, y termodinámica.
+
+## Profesor:
+Wladimir Banda Barragán
 
 ## Descripción de la Asignatura:
 
-La asignatura provee un amplio panorama de los principios físicos que rigen fenómenos relacionados con el desarrollo de trabajo, que involucran los conceptos de energía y potencia, momento lineal, oscilaciones y ondas, y las leyes de la termodinámica, y con éstos resolver problemas relacionados a los tópicos de la asignatura y a la ingeniería mecánica.
+Las 3 unidades de esta asignatura estudian los conceptos y principios físicos de trabajo y energía, conservación de la energía, conservación del momento lineal, oscilaciones y ondas, y termodinámica, conjuntamente con sus aplicaciones en procesos de ingeniería mecánica.
 
 ## Objetivo general de la Asignatura:
 
-Investigar los diferentes conceptos y principios físicos de trabajo, las leyes de conservación de la energía y del momento lineal, las oscilaciones y ondas, y las leyes de la termodinámica para resolver problemas de ingeniería mecánica.
+Estudiar los diferentes conceptos y principios físicos de trabajo y energía, las leyes de conservación de la energía y del momento lineal, las oscilaciones y ondas, y las leyes de la termodinámica para resolver problemas de ingeniería mecánica.
 
 ## Objetivos Específicos de la Asignatura:
 

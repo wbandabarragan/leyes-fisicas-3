@@ -2,7 +2,7 @@
 
 ## Universidad Técnica de Ambato (2017-2018)
 
-## Sobre este repositorio.:
+## Sobre este repositorio:
 Este repositorio presenta una colección de notas de clase, guías de laboratorio y ejercicios de aplicación sobre el curso "Leyes Físicas 3", que fue impartido a estudiantes de ingeniería de la Universidad Técnica de Ambato entre 2017 y 2018. La asignatura provee un amplio panorama de leyes físicas asociadas a fenómenos que involucran los conceptos de energía, trabajo, conservación de energía, conservación de momento lineal, oscilaciones y ondas, y termodinámica.
 
 ## Profesor:
